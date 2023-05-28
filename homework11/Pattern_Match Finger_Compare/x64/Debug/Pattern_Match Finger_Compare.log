@@ -1,0 +1,4 @@
+﻿  Pattern_Match Finger_Compare.cpp
+E:\刘修铭\南开大学\个人材料\课程\2022-2023 第2学期\算法设计和分析 陈晨、王贝贝\作业\homework11\Pattern_Match Finger_Compare\Pattern_Match Finger_Compare.cpp(31,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\刘修铭\南开大学\个人材料\课程\2022-2023 第2学期\算法设计和分析 陈晨、王贝贝\作业\homework11\Pattern_Match Finger_Compare\Pattern_Match Finger_Compare.cpp(32,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Pattern_Match Finger_Compare.vcxproj -> E:\刘修铭\南开大学\个人材料\课程\2022-2023 第2学期\算法设计和分析 陈晨、王贝贝\作业\homework11\Pattern_Match Finger_Compare\x64\Debug\Pattern_Match Finger_Compare.exe
